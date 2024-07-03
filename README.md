@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkumar1273&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkumar1273" /> </p>
+<hr>
 
 - 👨‍💻 All of my projects are available at [https://rajat-kumar-portfolio.vercel.app/](https://rajat-kumar-portfolio.vercel.app/)
 
